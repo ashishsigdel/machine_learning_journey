@@ -1,0 +1,3 @@
+Hey I am Ashish
+I am currently learning Python from 'Learn Python the hard way 3' book
+It is amazing!!!
